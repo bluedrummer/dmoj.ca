@@ -14,6 +14,8 @@ Banana_3 = B3*3
 Banana_2 = B2*2
 Banana_1 = B1*1
 
+
+
 Apple = Apple_3 + Apple_2 + Apple_1
 Banana = Banana_3 + Banana_2 + Banana_1
 
@@ -23,4 +25,3 @@ elif Apple<Banana:
     print("B")
 elif Apple==Banana:
     print("T")
-    
